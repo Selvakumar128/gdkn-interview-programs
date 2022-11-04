@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: red;
+    background-color: aquamarine;
+    align-items: center;
+    /* position : relative*/
+    position: absolute; 
+}
+h2{
+    /*posithion : relative */
+    position: relative;
+}

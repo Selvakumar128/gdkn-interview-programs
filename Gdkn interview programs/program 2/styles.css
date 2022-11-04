@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+.para1{
+    color: green;
+    background-color: aliceblue;
+    align-items: center;
+}
+#para{
+    color: red;
+    background-color: aquamarine;
+    align-items: center;
+}

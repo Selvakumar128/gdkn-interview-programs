@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: red;
+    background-color: aquamarine;
+    align-items: center;
+    /* display:none it removes element from the document */
+    display:none; 
+}
+h2{
+    /* visibility hidden . It hides element  from the document */
+    visibility: hidden;
+}

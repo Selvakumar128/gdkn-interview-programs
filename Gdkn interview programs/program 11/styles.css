@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: blue;
+    font-family: cursive;
+}
+h4{
+    background-color: aquamarine;
+    color: yellow;
+    font-family: sans-serif;
+}
